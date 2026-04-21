@@ -53,7 +53,7 @@ The project focuses on implementing the core mechanics of the game using basic d
 ## 📂 Project Structure
 
 ```
-othello-game
+othello
 │
 ├── src/
 │ ├── Board.java     # Main game logic and program entry point
